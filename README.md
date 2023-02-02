@@ -9,5 +9,6 @@ This is the landing page for the lesson: https://master-asi-conae.hub.eox.at
 ## Authors and acknowledgment
 - ASI
 - CONAE
+- University of Padua
 - Eurac Research
 - EOX
